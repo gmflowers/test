@@ -23,5 +23,10 @@ git commit -m "备注修改的地方"
 
 如果不提交,按提示进行  
 
-最后查看仓库状态
-git status
+查看仓库状态  
+git status  
+
+最后将本地文件提交到GitHub上  
+git push  
+
+输入GitHub账号及密码  
