@@ -17,15 +17,17 @@ git status
 git add docs\git-learning.md
 git status
 
-提示需要设置 邮箱 和 姓名
+提示需要设置 邮箱 和 姓名（首次登陆需要设置)  
 git config --global user.email "gmin_yting0315@163.com"  
 git config --global user.name "rm花儿朵朵"  
 
+提交到本地 -m(注释)
 git commit -m "add git-learning file"  
 git status # 疑惑: origin/master 是什么？  
 
+提交到GitHub 
 git push
 
-输入GitHub账号密码
+提示需要GitHub的账号及密码
 
 git status
